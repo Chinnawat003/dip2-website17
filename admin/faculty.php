@@ -4,7 +4,7 @@
 <?php include("includes/topbar.php"); ?>
 <?php include("config/dbcon.php"); ?>
 
-Hello faculty
+Hello faculty My chin
 
 <?php include("includes/footer.php") ?>
 <?php include("includes/logoutmodal.php") ?>
