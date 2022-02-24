@@ -48,7 +48,7 @@
                                     <p class="card-text" style="height:100%">
                                         <?php echo $row['descrip']; ?>
                                     </p>
-                                    <a href="<?php echo $row['link']; ?>" target="_blank" class="btn btn-primary">View Detail</a>
+                                    <a href="<?php echo $row['link']; ?>" target="_blank" class="btn btn-success">View Detail</a>
                                 </div>
                                 <span class="border border-warning"></span>
                                 <span class="border border-warning"></span>

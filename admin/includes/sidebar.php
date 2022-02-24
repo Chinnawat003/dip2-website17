@@ -36,7 +36,7 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Custom Components:</h6>
-                        <a class="collapse-item" href="abouts.php">เกี่ยวกับ</a>
+                        <a class="collapse-item" href="../user/index.php">เกี่ยวกับ</a>
                         <a class="collapse-item" href="faculty.php">คณะผู้บริหาร</a>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
 
             <!-- Sidebar Message -->
             <div class="sidebar-card d-none d-lg-flex">
-                <img class="sidebar-card-illustration mb-2" src="img/undraw_rocket.svg" alt="...">
+                <img class="sidebar-card-illustration mb-2" src="img/vec.png" alt="...">
                 
                 <p class="text-center mb-2"><strong>ผู้ดูแลระบบ </strong>วท.ตราด</p>
 

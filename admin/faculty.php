@@ -118,9 +118,12 @@
                             <input type="text" name="faculty_designation" class="form-control" placeholder="Enter Designation" required>
                         </div>
                         <div class="mb-3">
-                            <label>Description</label>
-                            <!-- <input type="text" name="faculty_description" class="form-control" placeholder="Enter Description" required> -->
-                            <textarea name="faculty_description" rows="5" class="form-control" placeholder="Enter Description" required></textarea>
+                            <label>Designation</label>
+                            <input type="text" name="faculty_designation" class="form-control" placeholder="Enter Designation" required>
+                        </div>
+                        <div class="mb-3">
+                            <label>Data</label>
+                            <input type="text" name="faculty_detail" class="form-control" placeholder="Enter Designation" required>
                         </div>
                         <div class="mb-3">
                             <label>Link</label>

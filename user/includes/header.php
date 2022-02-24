@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
     <link href="css/customer.css" rel="stylesheet">
 
-    <title>เว็บไซต์ นายมาร์ก</title>
+    <title>นายชินวัตร</title>
 </head>
 
 <body>

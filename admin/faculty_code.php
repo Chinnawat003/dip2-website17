@@ -6,6 +6,7 @@ if (isset($_POST['faculty_save'])) {
     $name = $_POST['faculty_name'];
     $design = $_POST['faculty_designation'];
     $descrip = $_POST['faculty_description'];
+    
     $link = $_POST['faculty_link'];
     $images = $_FILES["faculty_image"]['name'];
 
@@ -33,6 +34,7 @@ if (isset($_POST['faculty_save'])) {
 if (isset($_POST['update_btn'])) {
     $id = $_POST['edit_id'];
     $name = $_POST['faculty_name'];
+    $detail = $_POST['faculty_detail'];
     $design = $_POST['faculty_designation'];
     $descrip = $_POST['faculty_description'];
     $link = $_POST['faculty_link'];
